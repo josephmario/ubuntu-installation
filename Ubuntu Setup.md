@@ -35,6 +35,12 @@
 </ul>
 </li>
 <li>
+<p>Set the Hard Disk</p>
+<ul>
+<li>120 GB</li>
+</ul>
+</li>
+<li>
 <p>Click Finish</p>
 </li>
 <li>
