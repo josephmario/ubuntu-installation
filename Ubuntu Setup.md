@@ -115,6 +115,9 @@
 <p>Click Done</p>
 </li>
 <li>
+<p>if there’s update ubuntu then click cancel update installation</p>
+</li>
+<li>
 <p>Wait until finish installation ubuntu</p>
 </li>
 </ul>
