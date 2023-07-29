@@ -75,6 +75,48 @@
 </li>
 </ul>
 </li>
+<li>
+<p>Click Start</p>
+</li>
+<li>
+<p>Choose English</p>
+</li>
+<li>
+<p>Continue without updating</p>
+</li>
+<li>
+<p>Click Done</p>
+</li>
+<li>
+<p>Click Done</p>
+</li>
+<li>
+<p>Click  Done</p>
+</li>
+<li>
+<p>Click Done</p>
+</li>
+<li>
+<p>Click Done</p>
+</li>
+<li>
+<p>Click Done</p>
+</li>
+<li>
+<p>Click Continue</p>
+</li>
+<li>
+<p>Set your credential then click done</p>
+</li>
+<li>
+<p>Install OpenSSH server then click done</p>
+</li>
+<li>
+<p>Click Done</p>
+</li>
+<li>
+<p>Wait until finish installation ubuntu</p>
+</li>
 </ul>
 </li>
 </ul>
